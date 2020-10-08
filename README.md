@@ -4,6 +4,7 @@ Hi this is a little Telegram userbot I made in order to automatize various tasks
 
 ## Installation
 **Windows**
+
 First you have to install [Python](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe).
 Then open you `cmd` and type:
 
@@ -11,6 +12,7 @@ Then open you `cmd` and type:
     git clone https://github.com/moresdavidewayan/ubot.py.git
 
 **Arch Linux**
+
 Open your terminal and run:
 
     sudo pacman --noconfirm -Syu pyhton python-pip
