@@ -6,7 +6,7 @@ Hi this is a little Telegram userbot I made in order to automatize various tasks
 **Windows**
 
 First you have to install [Python](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe).
-Then open you `cmd` and type:
+Then open `cmd` and type:
 
     pip install telethon pillow cryptg matplotlib logging
     git clone https://github.com/moresdavidewayan/ubot.py.git
