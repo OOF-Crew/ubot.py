@@ -13,7 +13,7 @@ Then open you `cmd` and type:
 **Arch Linux**
 Open your terminal and run:
 
-    sudo pacman -Syu pyhton python-pip
+    sudo pacman --noconfirm -Syu pyhton python-pip
     sudo pip install telethon pillow cryptg matplotlib logging
     git clone https://github.com/moresdavidewayan/ubot.py.git
 ## Configure
