@@ -23,8 +23,9 @@ You'll need to connect to [Telegram](https://my.telegram.org) and generate your:
  2. API hash 
 
 Then you'll also need the name of your Telegram account.
-The session name can be whatever you want 
--If you change your session name the userbot 'll ask everytime your phone number and the code Telegram 'll send to you-
+The session name can be whatever you want
+
+*If you change your session name the userbot 'll ask everytime your phone number and the code Telegram 'll send to you*
 ## How to run
 Open your terminal in your working directory and type:
 
