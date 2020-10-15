@@ -8,7 +8,7 @@ Hi this is a little Telegram userbot I made in order to automatize various tasks
 First you have to install [Python](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe).
 Then open `cmd` and type:
 
-    pip install telethon pillow cryptg matplotlib logging
+    pip install telethon pillow cryptg matplotlib
     git clone https://github.com/moresdavidewayan/ubot.py.git
 
 **Arch Linux**
@@ -16,7 +16,7 @@ Then open `cmd` and type:
 Open your terminal and run:
 
     sudo pacman --noconfirm -Syu pyhton python-pip
-    sudo pip install telethon pillow cryptg matplotlib logging
+    sudo pip install telethon pillow cryptg matplotlib
     git clone https://github.com/moresdavidewayan/ubot.py.git
 ## Configure
 When you run the file the program will ask if you want to use the values set in the configuration file(config.py). Using this method everytime you'll have to input your informations which 'll be annoying, so consider to change your information manually in the configuration file.
