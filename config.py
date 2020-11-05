@@ -1,8 +1,6 @@
 #Configurazione base
-apiId=2705234
-apiHash="004c9c7cca4e1e9abc26daa1c1d924c8"
-nomeSessione="sessione"
-nomeUtente="doggycheems"
+nomeSessione="doggylol"
+nomeUtente="Doggy🥳"
 
 #Variabili
 intervalloSpam=6
